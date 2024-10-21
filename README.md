@@ -19,7 +19,6 @@ I'm currently exploring Rust, C#, and Unity for game development, continuing to 
 ## Connect with Me
 
 - **LinkedIn**: [in/samuel-phelan](https://www.linkedin.com/in/samuel-phelan)
-- **Portfolio**: [samphelan.github.io](https://samphelan.github.io)
 - **Email**: [samphelan7@gmail.com](mailto:samphelan7@gmail.com)
 
 Feel free to reach out if you're interested in collaborating or just want to chat about design and development!
