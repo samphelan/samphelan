@@ -1,12 +1,8 @@
 ## About Me
 
-I'm the developer and maintainer of [Pulsewidth UI](https://pulsewidthlabs.com/) an intuitive and flexible UI component library for React.
+I'm currently a backend developer for [Reloshare](https://reloshare.com). 
 
-If you would like to contribute to that project, [check out the guide](https://pulsewidthlabs.com/docs/contributing) or email me at samphelan7@gmail.com.
-
-I've also built many other sites and worked for [big](https://graybar.com) & [small](https://1904labs.com) companies as a data engineer & full stack developer. Check out my [LinkedIn](https://www.linkedin.com/in/samuel-phelan) for more information on that.
-
-I'm currently exploring Rust, C#, and Unity for game development, continuing to build out Pulsewidth UI, and working on a very exciting project, details of which I will share soon.
+I've also built many other sites and worked for [big](https://graybar.com) & [small](https://1904labs.com) companies as a data engineer & full stack developer. Check out my [LinkedIn](https://www.linkedin.com/in/samuel-phelan) for more information on my professional experience.
 
 ## Skills
 
