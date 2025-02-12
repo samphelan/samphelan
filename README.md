@@ -18,5 +18,3 @@ I've also built or contributed to several production applications using a modern
 - **Email**: [samphelan7@gmail.com](mailto:samphelan7@gmail.com)
 
 Feel free to reach out if you're interested in collaborating or just want to chat about design and development!
-
-I'm always open to discussing design, development, or any cool projects you're working on. Don’t hesitate to drop me a message!
